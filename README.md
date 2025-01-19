@@ -16,6 +16,7 @@ I currently focus on compression and optimization for large language models (OPT
 
 ## Surveys
 - [2025] Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)]
+- [2024] Foundation Models in Robotics: Applications, Challenges, and the Future, IJRR [[Paper](https://doi.org/10.1177/02783649241281508)] [[Code](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 - [2024] A Study of Optimizations for Fine-tuning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2406.02290)] 
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] Prompt Compression for Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/abs/2410.12388)]
