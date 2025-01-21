@@ -15,6 +15,9 @@ I currently focus on compression and optimization for large language models (OPT
 <a name="Surveys" />
 
 ## Surveys
+
+Large language models for robotics: Opportunities, challenges, and perspectives
+Large language models for robotics: A survey
 Recent Advances in Robot Navigation
 via Large Language Models: A Review
 - [2025] Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)]
