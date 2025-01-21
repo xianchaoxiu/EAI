@@ -16,11 +16,9 @@ I currently focus on compression and optimization for large language models (OPT
 
 ## Surveys
 
-Large language models for robotics: Opportunities, challenges, and perspectives
-Large language models for robotics: A survey
-Recent Advances in Robot Navigation
-via Large Language Models: A Review
 - [2025] Low-Rank Adaptation for Foundation Models: A Comprehensive Review, arXiv [[Paper](https://arxiv.org/pdf/2501.00365)]
+- [2024] Large language models for robotics: Opportunities, challenges, and perspectives, arXiv [[Paper](https://arxiv.org/abs/2401.04334)]
+- [2024] Recent Advances in Robot Navigation via Large Language Models: A Review, arXiv [[Paper](https://www.researchgate.net/profile/Xian-Wei-3/publication/384537380)] 
 - [2024] Foundation Models in Robotics: Applications, Challenges, and the Future, IJRR [[Paper](https://doi.org/10.1177/02783649241281508)] [[Code](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 - [2024] A Study of Optimizations for Fine-tuning Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2406.02290)] 
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
@@ -30,13 +28,12 @@ via Large Language Models: A Review
 - [2024] A Systematic Survey on Large Language Models for Algorithm Design, arXiv [[Paper](https://arxiv.org/abs/2410.14716)]
 - [2024] A Survey of Low-Bit Large Language Models: Basics, Systems, and Algorithms, arXiv [[Paper](https://arxiv.org/abs/2409.16694)]
 - [2024] Small Language Models: Survey, Measurements, and Insights, arXiv [[Paper](https://arxiv.org/abs/2409.15790)]  [[Code](https://github.com/UbiquitousLearning/SLM_Survey)]
+- [2023] Large Language Models for Robotics: A Survey, arXiv [[Paper](https://arxiv.org/abs/2311.07226)]  
 - [2023] A Survey on Multimodal Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2306.13549)]    
 - [2022] Compression of Deep Learning Models for Text: A Survey, ACM TKDD [[Paper](https://dl.acm.org/doi/full/10.1145/3487045)]
 - [2020] Optimization for Deep Learning: An Overview, JORC [[Paper](https://link.springer.com/article/10.1007/s40305-020-00309-6)]
 - [2020] Binary Neural Networks: A Survey, PR  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)]
  
-<a name="Pruning" />
-
 
 
 <a name="Resources" />
