@@ -1,6 +1,6 @@
 # Large Language Models for Robotics (LLM4RO)
 
-I currently focus on compression and optimization for large language models (OPT4LLM) including
+I currently focus on large language models for robotics (LLM4RO) including
 - [Surveys](#Surveys)
 - [Perception](#Perception)
 - [Planning](#Planning)
