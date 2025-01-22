@@ -15,13 +15,12 @@ I currently focus on compression and optimization for large language models (OPT
 
 ## Surveys
 
-- [2024] Large language models for robotics: Opportunities, challenges, and perspectives, arXiv [[Paper](https://arxiv.org/abs/2401.04334)]
 - [2024] Recent Advances in Robot Navigation via Large Language Models: A Review, arXiv [[Paper](https://www.researchgate.net/profile/Xian-Wei-3/publication/384537380)] 
+- [2024] Large Language Models for Robotics: Opportunities, Challenges, and Perspectives, arXiv [[Paper](https://arxiv.org/abs/2401.04334)]
+- [2024] Advances in Embodied Navigation Using Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/pdf/2311.00530)]  
 - [2024] Foundation Models in Robotics: Applications, Challenges, and the Future, IJRR [[Paper](https://doi.org/10.1177/02783649241281508)] [[Code](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2023] Large Language Models for Robotics: A Survey, arXiv [[Paper](https://arxiv.org/abs/2311.07226)]  
-
-
 
 
 
