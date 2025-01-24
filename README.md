@@ -1,6 +1,6 @@
-# Large Language Models for Embodied AI  (LLM4EAI)
+# Large Language Models for Embodied Artificial Intelligence (LLM4EAI)
 
-I currently focus on large language models for embodied AI (LLM4EAI) including
+I currently focus on large language models for embodied artificial intelligence (LLM4EAI) including
 - [Surveys](#Surveys)
 - [Perception](#Perception)
 - [Planning](#Planning)
