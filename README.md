@@ -1,6 +1,6 @@
-# Large Language Models for Robotics (LLM4RO)
+# Large Language Models for Embodied Intelligence  (LLM4EI)
 
-I currently focus on large language models for robotics (LLM4RO) including
+I currently focus on large language models for embodied intelligence (LLM4EI) including
 - [Surveys](#Surveys)
 - [Perception](#Perception)
 - [Planning](#Planning)
@@ -19,7 +19,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 - [2025] A Survey on Large Language Models with some Insights on their Capabilities and Limitations, arXiv [[Paper](https://arxiv.org/abs/2501.04040)]
 - [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, arXiv [[Paper](https://arxiv.org/pdf/2501.02116)] 
 - [2025] 基于大模型的具身智能系统综述, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240542)]
-- [2025] 具身智能研究的关键问题: 自主感知、行动与进化, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240364)]
+- [2025] 具身智能研究的关键问题: 自主感知、行动与进化, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240364)] [[Code](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI)]
 - [2024] 大模型驱动的具身智能: 发展与挑战, 中国科学 [[Paper](https://doi.org/10.1360/SSI-2024-0076)]
 - [2024] Personalization of Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/pdf/2411.00027)] 
 - [2024] A Survey on LLM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
