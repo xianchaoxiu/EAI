@@ -1,4 +1,4 @@
-# Large Language Models for Robotics
+# Large Language Models for Robotics (LLM4RO) 
 
 I currently focus on large language models for robotics (LLM4RO) including
 - [Surveys](#Surveys)
