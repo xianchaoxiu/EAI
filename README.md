@@ -15,6 +15,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] A Survey of World Models for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.11260)] 
 - [2025] Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities, arXiv [[Paper](https://arxiv.org/abs/2501.09686)] 
 - [2025] A Survey on Large Language Models with some Insights on their Capabilities and Limitations, arXiv [[Paper](https://arxiv.org/abs/2501.04040)]
 - [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, arXiv [[Paper](https://arxiv.org/pdf/2501.02116)] 
