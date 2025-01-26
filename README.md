@@ -56,6 +56,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 
 ## Planning
 
+- [2024] LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning, arXiv [[Paper](https://arxiv.org/abs/2407.02511)]  
 - [2024] SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments, ICAPS [[Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/31506)] 
 - [2024] AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers, ICRA [[Paper](https://ieeexplore.ieee.org/abstract/document/10611163)] 
 - [2023] ProgPrompt: Generating Situated Robot Task Plans using Large Language Models, ICRA [[Paper](https://ieeexplore.ieee.org/abstract/document/10161317)] 
