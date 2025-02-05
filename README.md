@@ -15,10 +15,11 @@ I currently focus on large language models for robotics (LLM4RO) including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, arXiv [[Paper](https://arxiv.org/pdf/2501.02116)] 
+- [2025] UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility, arXiv [[Paper](https://arxiv.org/abs/2501.02341)] [[Code](https://github.com/Hub-Tian/UAVs_Meet_LLMs)]
 - [2025] A Survey of World Models for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.11260)] 
 - [2025] Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities, arXiv [[Paper](https://arxiv.org/abs/2501.09686)] 
 - [2025] A Survey on Large Language Models with some Insights on their Capabilities and Limitations, arXiv [[Paper](https://arxiv.org/abs/2501.04040)]
-- [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, arXiv [[Paper](https://arxiv.org/pdf/2501.02116)] 
 - [2025] 基于大模型的具身智能系统综述, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240542)]
 - [2025] 具身智能研究的关键问题: 自主感知、行动与进化, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240364)] [[Code](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI)]
 - [2024] 大模型驱动的具身智能: 发展与挑战, 中国科学 [[Paper](https://doi.org/10.1360/SSI-2024-0076)]
@@ -56,6 +57,8 @@ I currently focus on large language models for robotics (LLM4RO) including
 
 ## Planning
 
+- [2025] LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2501.15850)]   [[Video](https://drive.google.com/file/d/1Zv4V3iG7825oyiKbUwS2Y-rR0DQIE1ZA/view)]
+- [2024] Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving, arXiv [[Paper](https://arxiv.org/pdf/2412.18511)]
 - [2024] LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning, arXiv [[Paper](https://arxiv.org/abs/2407.02511)]  
 - [2024] SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments, ICAPS [[Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/31506)] 
 - [2024] AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers, ICRA [[Paper](https://ieeexplore.ieee.org/abstract/document/10611163)] 
@@ -74,7 +77,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 <a name="Control" />
 
 ## Control
-
+- [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation, arXiv [[Paper](https://arxiv.org/abs/2412.04453)]  [[Video](https://navila-bot.github.io/)] 
 - [2024] Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation, arXiv [[Paper](https://arxiv.org/abs/2403.08282)]  
 - [2024] GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment, arXiv [[Paper](https://arxiv.org/abs/2403.11075)]  
 - [2024] Probabilistically Correct Language-based Multi-Robot Planning using Conformal Prediction, arXiv [[Paper](https://arxiv.org/abs/2402.15368)]  
