@@ -15,6 +15,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] Survey on Large Language ModelEnhanced Reinforcement Learning: Conceptaxonomy, and Methods, IEEE TNNLS  [[Paper](https://ieeexplore.ieee.org/abstract/document/10766898/)] 
 - [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, arXiv [[Paper](https://arxiv.org/pdf/2501.02116)] 
 - [2025] UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility, arXiv [[Paper](https://arxiv.org/abs/2501.02341)] [[Code](https://github.com/Hub-Tian/UAVs_Meet_LLMs)]
 - [2025] A Survey of World Models for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.11260)] 
@@ -56,9 +57,12 @@ I currently focus on large language models for robotics (LLM4RO) including
 <a name="Planning" />
 
 ## Planning
+- [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2501.09747)]   [[Video](https://www.pi.website/research/fast)]
+- [2025] AdaWM: Adaptive World Model based Planning for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.13072)] 
 - [2025] Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving, AAAI [[Paper](https://arxiv.org/abs/2501.08861)] 
 - [2025] LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2501.15850)]   [[Video](https://drive.google.com/file/d/1Zv4V3iG7825oyiKbUwS2Y-rR0DQIE1ZA/view)]
 - [2024] The One RING: a Robotic Indoor Navigation Generalist, arXiv [[Paper](https://arxiv.org/pdf/2412.14401)]  [[Video](https://one-ring-policy.allen.ai/)]
+- [2024] Asynchronous Large Language Model EnhancedPlanner for Autonomous Driving, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72764-1_2)]
 - [2024] Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving, arXiv [[Paper](https://arxiv.org/pdf/2412.18511)]
 - [2024] LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning, arXiv [[Paper](https://arxiv.org/abs/2407.02511)]  
 - [2024] SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments, ICAPS [[Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/31506)] 
