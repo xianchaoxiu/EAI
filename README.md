@@ -58,6 +58,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 <a name="Planning" />
 
 ## Planning
+- [2025] SD++: Enhancing Standard Defnition Mapsby Incorporating Road Knowledge using LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.02773)]  
 - [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2501.09747)]   [[Video](https://www.pi.website/research/fast)]
 - [2025] AdaWM: Adaptive World Model based Planning for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.13072)] 
 - [2025] Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving, AAAI [[Paper](https://arxiv.org/abs/2501.08861)] 
