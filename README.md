@@ -62,6 +62,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 - [2025] AdaWM: Adaptive World Model based Planning for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.13072)] 
 - [2025] Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving, AAAI [[Paper](https://arxiv.org/abs/2501.08861)] 
 - [2025] LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2501.15850)]   [[Video](https://drive.google.com/file/d/1Zv4V3iG7825oyiKbUwS2Y-rR0DQIE1ZA/view)]
+- [2024] TopV-Nav: Unlocking the TopView Spatial Reasoning Potential ofMLLM for Zero-shot Obiect Navigation, arXiv [[Paper](https://arxiv.org/abs/2411.16425)] 
 - [2024] The One RING: a Robotic Indoor Navigation Generalist, arXiv [[Paper](https://arxiv.org/pdf/2412.14401)]  [[Video](https://one-ring-policy.allen.ai/)]
 - [2024] Asynchronous Large Language Model EnhancedPlanner for Autonomous Driving, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72764-1_2)]
 - [2024] Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving, arXiv [[Paper](https://arxiv.org/pdf/2412.18511)]
