@@ -15,6 +15,7 @@ I currently focus on large language models for robotics (LLM4RO) including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] Large Language Models for Multi-Robot Systems: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.03814)] [[Code](https://github.com/Zhourobotics/LLM-MRS-survey)]
 - [2025] Survey on Large Language ModelEnhanced Reinforcement Learning: Conceptaxonomy, and Methods, IEEE TNNLS  [[Paper](https://ieeexplore.ieee.org/abstract/document/10766898/)] 
 - [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, arXiv [[Paper](https://arxiv.org/pdf/2501.02116)] 
 - [2025] UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility, arXiv [[Paper](https://arxiv.org/abs/2501.02341)] [[Code](https://github.com/Hub-Tian/UAVs_Meet_LLMs)]
