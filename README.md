@@ -1,10 +1,10 @@
-# Large Language Models for Robot Navigation
+# Large Language Models for Navigation
 <p align="center">
   <img src="images/robot-navigation.jpg" width="600"><br>
 </p>
 
 
-I currently focus on large language models for robot navigation  including
+I currently focus on large language models for navigation  including
 - [Surveys](#Surveys)
 - [Perception](#Perception)
 - [Planning](#Planning)
