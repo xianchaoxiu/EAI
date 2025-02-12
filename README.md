@@ -1,6 +1,6 @@
-# Large Language Models for Embodied Navigation
+# Large Language Models for Robot Navigation
 
-I currently focus on large language models for embodied navigation  including
+I currently focus on large language models for robot navigation  including
 - [Surveys](#Surveys)
 - [Perception](#Perception)
 - [Planning](#Planning)
