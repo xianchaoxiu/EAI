@@ -117,6 +117,7 @@ I currently focus on large language models for navigation  including
 <a name="Tools" />
 
 ## Tools
+- Hugging Face [[Link](https://huggingface.co/)]  
 - LLM-Action [[Link](https://github.com/liguodongiot/llm-action)]  
 
 
