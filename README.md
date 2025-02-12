@@ -62,6 +62,7 @@ I currently focus on large language models for robot navigation  including
 <a name="Planning" />
 
 ## Planning
+- [2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives, arXiv [[Paper](https://arxiv.org/abs/2501.04003)]  [[Video](https://drive-bench.github.io/)]
 - [2025] SD++: Enhancing Standard Defnition Mapsby Incorporating Road Knowledge using LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.02773)]  
 - [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2501.09747)]   [[Video](https://www.pi.website/research/fast)]
 - [2025] AdaWM: Adaptive World Model based Planning for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.13072)] 
