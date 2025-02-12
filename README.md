@@ -1,4 +1,8 @@
 # Large Language Models for Robot Navigation
+<p align="center">
+  <img src="images/robot-navigation.jpg" width="600"><br>
+</p>
+
 
 I currently focus on large language models for robot navigation  including
 - [Surveys](#Surveys)
