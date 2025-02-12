@@ -1,4 +1,4 @@
-# Large Language Models for Navigation
+# Large Language Models for Navigation (LLM4NAV)
 <p align="center">
   <img src="images/robot-navigation.jpg" width="600"><br>
 </p>
