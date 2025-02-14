@@ -43,7 +43,7 @@ I currently focus on large language models for navigation  including
 <a name="Perception" />
 
 ## Perception
-
+- [2025] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.17811)] [[Code](https://github.com/deepseek-ai/Janus)]
 - [2024] OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding, arXiv [[Paper](https://arxiv.org/abs/2404.11000)] 
 - [2024] NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28597)] 
 - [2024] OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments, arXiv [[Paper](https://arxiv.org/abs/2403.09412)]  
