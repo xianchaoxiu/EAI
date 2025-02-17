@@ -9,7 +9,7 @@ I currently focus on large language models for navigation  including
 - [Control](#Control)
 - [Tools](#Tools)
 
-<strong> Last Update: 2025/01/22 </strong>
+<strong> Last Update: 2025/02/17 </strong>
 
 
 
@@ -43,6 +43,7 @@ I currently focus on large language models for navigation  including
 <a name="Perception" />
 
 ## Perception
+- [2025] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token, arXiv [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)]
 - [2025] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.17811)] [[Code](https://github.com/deepseek-ai/Janus)]
 - [2024] OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding, arXiv [[Paper](https://arxiv.org/abs/2404.11000)] 
 - [2024] NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28597)] 
@@ -88,6 +89,7 @@ I currently focus on large language models for navigation  including
 <a name="Control" />
 
 ## Control
+- [2024]π0: A Vision-Language-Action Flow Model for General Robot Control, arXiv [[Paper](https://arxiv.org/abs/2410.24164)]  [[Video](https://www.physicalintelligence.company/blog/pi0)] 
 - [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation, arXiv [[Paper](https://arxiv.org/abs/2412.04453)]  [[Video](https://navila-bot.github.io/)] 
 - [2024] Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation, arXiv [[Paper](https://arxiv.org/abs/2403.08282)]  
 - [2024] GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment, arXiv [[Paper](https://arxiv.org/abs/2403.11075)]  
