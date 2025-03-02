@@ -9,13 +9,15 @@ I currently focus on large language models for navigation  including
 - [Control](#Control)
 - [Tools](#Tools)
 
-<strong> Last Update: 2025/02/22 </strong>
+<strong> Last Update: 2025/03/02 </strong>
 
 
 
 <a name="Surveys" />
 
 ## Surveys
+- [2025] A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models, arXiv [[Paper](https://arxiv.org/abs/2502.17516)]
+- [2025] Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning, ACM Computing Surveys  [[Paper](https://dl.acm.org/doi/abs/10.1145/3717059)] 
 - [2025] Large Language Models for Multi-Robot Systems: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.03814)] [[Code](https://github.com/Zhourobotics/LLM-MRS-survey)]
 - [2025] Survey on Large Language Model Enhanced Reinforcement Learning: Conceptaxonomy, and Methods, IEEE TNNLS  [[Paper](https://ieeexplore.ieee.org/abstract/document/10766898/)] 
 - [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, arXiv [[Paper](https://arxiv.org/pdf/2501.02116)] 
@@ -43,6 +45,7 @@ I currently focus on large language models for navigation  including
 <a name="Perception" />
 
 ## Perception
+- [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration, arXiv [[Paper](https://arxiv.org/abs/2502.19250)] [[Code](https://objectvla.github.io/)]
 - [2025] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token, arXiv [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)]
 - [2025] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.17811)] [[Code](https://github.com/deepseek-ai/Janus)]
 - [2024] OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding, arXiv [[Paper](https://arxiv.org/abs/2404.11000)] 
@@ -60,12 +63,16 @@ I currently focus on large language models for navigation  including
 <a name="Planning" />
 
 ## Planning
+- [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/abs/2502.13451)] 
+- [2025] NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM, arXiv [[Paper](https://arxiv.org/abs/2502.11142)] 
+- [2025] LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs, arXiv [[Paper](https://arxiv.org/abs/2501.06186)]  [[Video](https://github.com/mbzuai-oryx/LlamaV-o1)]
 - [2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives, arXiv [[Paper](https://arxiv.org/abs/2501.04003)]  [[Video](https://drive-bench.github.io/)]
 - [2025] SD++: Enhancing Standard Defnition Mapsby Incorporating Road Knowledge using LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.02773)]  
 - [2025] FAST: Efficient Action Tokenization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2501.09747)]   [[Video](https://www.pi.website/research/fast)]
 - [2025] AdaWM: Adaptive World Model based Planning for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2501.13072)] 
 - [2025] Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving, AAAI [[Paper](https://arxiv.org/abs/2501.08861)] 
 - [2025] LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2501.15850)]   [[Video](https://drive.google.com/file/d/1Zv4V3iG7825oyiKbUwS2Y-rR0DQIE1ZA/view)]
+- [2024] Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs, EMNLP [[Paper](https://arxiv.org/abs/2406.14282)] 
 - [2024] Mastering Board Games by External and Internal Planning with Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.12119)] 
 - [2024] TopV-Nav: Unlocking the TopView Spatial Reasoning Potential of MLLM for Zero-shot Obiect Navigation, arXiv [[Paper](https://arxiv.org/abs/2411.16425)] 
 - [2024] The One RING: a Robotic Indoor Navigation Generalist, arXiv [[Paper](https://arxiv.org/pdf/2412.14401)]  [[Video](https://one-ring-policy.allen.ai/)]
