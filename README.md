@@ -16,6 +16,7 @@ I currently focus on large language models for navigation  including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey, arXiv [[Paper](https://arxiv.org/abs/2502.10498)] [[Code](https://github.com/LMD0311/Awesome-World-Model)]
 - [2025] A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models, arXiv [[Paper](https://arxiv.org/abs/2502.17516)]
 - [2025] Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning, ACM Computing Surveys  [[Paper](https://dl.acm.org/doi/abs/10.1145/3717059)] 
 - [2025] Large Language Models for Multi-Robot Systems: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.03814)] [[Code](https://github.com/Zhourobotics/LLM-MRS-survey)]
