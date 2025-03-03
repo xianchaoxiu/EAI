@@ -131,12 +131,12 @@ I currently focus on large language models for navigation  including
 
 ## Deployment
 
-#### Mamba
+### Mamba
 - [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2404.18861v3)]  [[Code](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] 
 
 
  
-#### Pruning
+### Pruning
 - [2025] FASP: Fast and Accurate Structured Pruning of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.09412)]
 - [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325/)] [[Code](https://github.com/hrcheng1066/awesome-pruning)]
 - [2024] Adaptive Principal Components Allocation with the L2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Code](https://github.com/jzheng20/Course_projects.git)]
@@ -178,7 +178,7 @@ I currently focus on large language models for navigation  including
 
 
 
-#### Binarization
+### Binarization
 
 - [2024] Scalable Binary Neural Network Applications in Oblivious Inference, ACM TECS [[Paper](https://dl.acm.org/doi/full/10.1145/3607192)]
 - [2022] Structured Binary Neural Networks for Image Recognition, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]
@@ -194,7 +194,7 @@ I currently focus on large language models for navigation  including
 - [2015] BinaryConnect: Training Deep Neural Networks with Binary Weights During Propagations, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)]
 
 
-#### Distillation
+### Distillation
 - [2025] Continual Learning With Knowledge Distillation: A Survey, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/document/10721446)]
 
 
