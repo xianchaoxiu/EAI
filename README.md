@@ -7,6 +7,7 @@ I currently focus on large language models for navigation  including
 - [Perception](#Perception)
 - [Planning](#Planning)
 - [Control](#Control)
+- [Deployment](#Deployment)
 - [Tools](#Tools)
 
 <strong> Last Update: 2025/03/02 </strong>
@@ -29,6 +30,7 @@ I currently focus on large language models for navigation  including
 - [2025] 基于大模型的具身智能系统综述, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240542)]
 - [2025] 具身智能研究的关键问题: 自主感知、行动与进化, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240364)] [[Code](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI)]
 - [2024] 大模型驱动的具身智能: 发展与挑战, 中国科学 [[Paper](https://doi.org/10.1360/SSI-2024-0076)]
+- [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 - [2024] Personalization of Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/pdf/2411.00027)] 
 - [2024] A Survey on LLM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
 - [2024] Embodied Navigation with Multi-modal Information: A Survey from Tasks to Methodology, Information Fusion [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524003105)] 
@@ -97,7 +99,7 @@ I currently focus on large language models for navigation  including
 <a name="Control" />
 
 ## Control
-- [2024]π0: A Vision-Language-Action Flow Model for General Robot Control, arXiv [[Paper](https://arxiv.org/abs/2410.24164)]  [[Video](https://www.physicalintelligence.company/blog/pi0)] 
+- [2024] π0: A Vision-Language-Action Flow Model for General Robot Control, arXiv [[Paper](https://arxiv.org/abs/2410.24164)]  [[Video](https://www.physicalintelligence.company/blog/pi0)] 
 - [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation, arXiv [[Paper](https://arxiv.org/abs/2412.04453)]  [[Video](https://navila-bot.github.io/)] 
 - [2024] Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation, arXiv [[Paper](https://arxiv.org/abs/2403.08282)]  
 - [2024] GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment, arXiv [[Paper](https://arxiv.org/abs/2403.11075)]  
@@ -123,6 +125,83 @@ I currently focus on large language models for navigation  including
 - [2022] Multi-Agent Embodied Visual Semantic Navigation With Scene Prior Knowledge, IEEE RAL [[Paper](https://ieeexplore.ieee.org/abstract/document/9691871)]  
 - [2022] Multi-Robot Active Mapping via Neural Bipartite Graph Matching, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Multi-Robot_Active_Mapping_via_Neural_Bipartite_Graph_Matching_CVPR_2022_paper.html)]
 - [2022] Learning Efficient Multi-agent Cooperative Visual Exploration, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)]
+
+
+<a name="Deployment" />
+
+## Deployment
+
+#### Mamba
+- [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2404.18861v3)]  [[Code](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] 
+
+
+ 
+#### Pruning
+- [2025] FASP: Fast and Accurate Structured Pruning of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.09412)]
+- [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325/)] [[Code](https://github.com/hrcheng1066/awesome-pruning)]
+- [2024] Adaptive Principal Components Allocation with the L2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Code](https://github.com/jzheng20/Course_projects.git)]
+- [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Code](https://github.com/usamec/double_sparse)]
+- [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Code](https://github.com/fmfi-compbio/admm-pruning)]
+- [2024] A Simple and Effective Pruning Approach for Large Language Models, ICLR [[Paper](https://arxiv.org/abs/2306.11695)] [[Code](https://github.com/locuslab/wanda)]
+- [2024] Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models, ICLR [[Paper](https://openreview.net/forum?id=Tr0lPx9woF)] 
+- [2024] BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation, arXiv [[Paper](https://arxiv.org/abs/2402.16880)]
+- [2024] MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models, NeurIPS [[Paper](https://arxiv.org/abs/2409.17481)] 
+- [2024] Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs, ICLR [[Paper](https://arxiv.org/abs/2310.08915)] 
+- [2023] LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning, arXiv [[Paper](https://doi.org/10.48550/arXiv.2305.18403)]
+- [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Code](https://github.com/yxli2123/LoSparse)]
+- [2023] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot, ICML [[Paper](https://arxiv.org/abs/2301.00774)] [[Code](https://github.com/IST-DASLab/sparsegpt)]
+- [2020] Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.html)] [[Code](https://github.com/ofsoundof/group_sparsity)]
+
+
+
+#### Quantization 
+- [2024] A Survey of Low-Bit Large Language Models: Basics, Systems, and Algorithms, arXiv [[Paper](https://arxiv.org/abs/2409.16694)]
+- [2024] OneBit: Towards Extremely Low-bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.11295)] 
+- [2024] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2405.17849)] 
+- [2024] Evaluating Quantized Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.18158)]
+- [2024] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, arXiv [[Paper](https://arxiv.org/abs/2402.17764)]
+- [2023] Post-training Quantization for Neural Networks with Provable Guarantees, SIMODS [[Paper](https://epubs.siam.org/doi/abs/10.1137/22M1511709)]
+- [2023] Training and inference of large language models using 8-bit floating point, arXiv [[Paper](https://arxiv.org/abs/2309.17224)]
+- [2023] BitNet: Scaling 1-bit Transformers for Large Language Models, arXiv[[Paper](https://arxiv.org/abs/2310.11453)]
+- [2023] LLM-QAT: Data-Free Quantization Aware Training for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAThttps://github.com/facebookresearch/LLM-QAT)]
+- [2023] GPTQ: Accurate Quantization for Generative Pre-trained Transformers, ICLR [[Paper](https://openreview.net/forum?id=tcbBPnfwxS)] [[Code](https://github.com/IST-DASLab/gptq)]
+- [2023] QuIP: 2-Bit Quantization of Large Language Models With Guarantees, arXiv [[Paper](https://arxiv.org/abs/2307.13304)] [[Code](https://github.com/jerry-chee/QuIP)]
+- [2023] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration,  arXiv  [[Paper](https://arxiv.org/abs/2306.00978)] [[Code](https://github.com/mit-han-lab/llm-awq)]
+- [2023] OWQ: Lessons Learned from Activation Outliers for Weight Quantization in Large Language Models, arXiv </ins> [[Paper](https://arxiv.org/abs/2306.02272)] [[Code](https://github.com/xvyaward/owq)]
+- [2023] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression, arXiv [[Paper](https://arxiv.org/pdf/2306.03078)] [[Code](https://github.com/Vahe1994/SpQR)]
+- [2023] QuantEase: Optimization-based Quantization for Language Models, arXiv [[Paper](https://arxiv.org/abs/2309.01885)] [[Code](https://github.com/linkedin/QuantEase)]
+- [2023] ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation, arXiv [[Paper](https://arxiv.org/abs/2303.08302)] [[Code](https://github.com/microsoft/DeepSpeed)]
+- [2023] QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2310.08041)]
+- [2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models, ICML [[Paper](https://arxiv.org/abs/2211.10438)] [[Code](https://github.com/mit-han-lab/smoothquant)]
+- [2022] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)]
+- [2022] Compression of Generative Pre-trained Language Models via Quantization, ACL [[Paper](https://aclanthology.org/2022.acl-long.331.pdf)]
+
+
+
+#### Binarization
+
+- [2024] Scalable Binary Neural Network Applications in Oblivious Inference, ACM TECS [[Paper](https://dl.acm.org/doi/full/10.1145/3607192)]
+- [2022] Structured Binary Neural Networks for Image Recognition, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]
+- [2022] Data-Adaptive Binary Neural Networks for Efficient Object Detection and Recognition, PRL[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004438)]
+- [2021] Learning Frequency Domain Approximation for Binary Neural Networks, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/d645920e395fedad7bbbed0eca3fe2e0-Abstract.html)]
+- [2021] Layer-Wise Searching for 1-Bit Detectors, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.html)]
+- [2020] Rotated Binary Neural Network, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/53c5b2affa12eed84dfec9bfd83550b1-Abstract.html)]
+- [2020] Binary Neural Networks: A Survey, PR  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)]
+- [2018] Regularized Binary Network Training, arXiv [[Paper](https://arxiv.org/abs/1812.11800)]
+- [2018] Enhancing the Performance of 1-bit CNNs with Improved Representational Capability and Advanced Training Algorithm, ECCV [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.pdf)]
+- [2018] Circulant Binary Convolutional Networks: Enhancing the Performance of 1-bit DCNNs with Circulant Back Propagation, CVPR [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Circulant_Binary_Convolutional_Networks_Enhancing_the_Performance_of_1-Bit_DCNNs_CVPR_2019_paper.html)]
+- [2017] How to Train a Compact Binary Neural Network with High Accuracy? AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10862)]
+- [2015] BinaryConnect: Training Deep Neural Networks with Binary Weights During Propagations, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)]
+
+
+#### Distillation
+- [2025] Continual Learning With Knowledge Distillation: A Survey, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/document/10721446)]
+
+
+
+
+
+
 
 
 <a name="Tools" />
