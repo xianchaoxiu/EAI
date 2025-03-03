@@ -139,6 +139,7 @@ I currently focus on large language models for robotics including
 ### Pruning
 - [2025] FASP: Fast and Accurate Structured Pruning of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.09412)]
 - [2024] A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations, IEEE TPAMI  [[Paper](https://ieeexplore.ieee.org/abstract/document/10643325/)] [[Code](https://github.com/hrcheng1066/awesome-pruning)]
+- [2024] FedGroup-Prune: IoT Device Amicable and Training-Efficient Federated Learning via Combined Group Lasso Sparse Model Pruning, IEEE IOT  [[Paper](https://ieeexplore.ieee.org/abstract/document/10677496/)] 
 - [2024] Adaptive Principal Components Allocation with the L2,g-regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models, arXiv [[Paper](https://arxiv.org/abs/2412.08592)] [[Code](https://github.com/jzheng20/Course_projects.git)]
 - [2024] Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization, arXiv [[Paper](https://arxiv.org/abs/2409.18850)]  [[Code](https://github.com/usamec/double_sparse)]
 - [2024] Fast and Effective Weight Update for Pruned Large Language Models, TMLR [[Paper](https://openreview.net/forum?id=1hcpXd9Jir)] [[Code](https://github.com/fmfi-compbio/admm-pruning)]
