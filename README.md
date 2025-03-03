@@ -1,8 +1,8 @@
-# Large Language Models for Navigation (LLM4NAV)
+# Large Language Models for Robotics (LLM4RO)
 
 
 
-I currently focus on large language models for navigation  including
+I currently focus on large language models for robotics including
 - [Surveys](#Surveys)
 - [Perception](#Perception)
 - [Planning](#Planning)
