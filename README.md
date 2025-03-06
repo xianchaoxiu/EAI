@@ -17,6 +17,7 @@ I currently focus on large language models for robotics including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives, arXiv [[Paper](https://arxiv.org/abs/2501.04003)] [[Code](https://drive-bench.github.io/)]
 - [2025] The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey, arXiv [[Paper](https://arxiv.org/abs/2502.10498)] [[Code](https://github.com/LMD0311/Awesome-World-Model)]
 - [2025] A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models, arXiv [[Paper](https://arxiv.org/abs/2502.17516)]
 - [2025] Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning, ACM Computing Surveys  [[Paper](https://dl.acm.org/doi/abs/10.1145/3717059)] 
@@ -48,11 +49,13 @@ I currently focus on large language models for robotics including
 <a name="Perception" />
 
 ## Perception
+- [2025] Visual-RFT: Visual Reinforcement Fine-Tuning, arXiv [[Paper](https://arxiv.org/abs/2503.01785)] [[Code](https://github.com/Liuziyu77/Visual-RFT)]
 - [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration, arXiv [[Paper](https://arxiv.org/abs/2502.19250)] [[Code](https://objectvla.github.io/)]
 - [2025] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token, arXiv [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)]
 - [2025] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling, arXiv [[Paper](https://arxiv.org/abs/2501.17811)] [[Code](https://github.com/deepseek-ai/Janus)]
 - [2024] OVAL-Prompt: Open-Vocabulary Affordance Localization for Robot Manipulation through LLM Affordance-Grounding, arXiv [[Paper](https://arxiv.org/abs/2404.11000)] 
-- [2024] NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28597)] 
+- [2024] NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28597)]
+- [2024] LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation, arXiv [[Paper](https://arxiv.org/abs/2408.15881)]  [[Code](https://github.com/shufangxun/LLaVA-MoD)]
 - [2024] OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments, arXiv [[Paper](https://arxiv.org/abs/2403.09412)]  
 - [2023] Chat with the Environment: Interactive Multimodal Perception using Large Language Models, IROS [[Paper](https://ieeexplore.ieee.org/abstract/document/10342363)]
 - [2023] VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, arXiv [[Paper](https://arxiv.org/abs/2307.05973)]  
