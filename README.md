@@ -32,6 +32,7 @@ I currently focus on large language models for robotics including
 - [2025] 具身智能研究的关键问题: 自主感知、行动与进化, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240364)] [[Code](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI)]
 - [2024] 大模型驱动的具身智能: 发展与挑战, 中国科学 [[Paper](https://doi.org/10.1360/SSI-2024-0076)]
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
+- [2024] A Survey on Multimodal Large Language Models for Autonomous Driving, WACV [[Paper](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.html)] 
 - [2024] Personalization of Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/pdf/2411.00027)] 
 - [2024] A Survey on LLM Inference-Time Self-Improvement, arXiv [[Paper](https://arxiv.org/abs/2412.14352)] 
 - [2024] Embodied Navigation with Multi-modal Information: A Survey from Tasks to Methodology, Information Fusion [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524003105)] 
@@ -42,6 +43,7 @@ I currently focus on large language models for robotics including
 - [2024] A Survey of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2303.18223)] [[Code](https://github.com/RUCAIBox/LLMSurvey)]
 - [2024] ChatGPT for Robotics: Design Principles and Model Abilities, IEEE Access [[Paper](https://ieeexplore.ieee.org/abstract/document/10500490)] 
 - [2023] Large Language Models for Robotics: A Survey, arXiv [[Paper](https://arxiv.org/abs/2311.07226)]
+- [2023] LLM4Drive: A Survey of Large Language Models for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2311.01043)] [[Code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)]
 
 
 
