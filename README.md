@@ -31,6 +31,7 @@ I currently focus on large language models for robotics including
 - [2025] 基于大模型的具身智能系统综述, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240542)]
 - [2025] 具身智能研究的关键问题: 自主感知、行动与进化, 自动化学报 [[Paper](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240364)] [[Code](https://github.com/BUCT-IUSRC/Survey__EmbodiedAI)]
 - [2024] 大模型驱动的具身智能: 发展与挑战, 中国科学 [[Paper](https://doi.org/10.1360/SSI-2024-0076)]
+- [2024] From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities, arXiv [[Paper](https://arxiv.org/abs/2412.11694)]  [[Code](https://github.com/threegold116/Awesome-Omni-MLLMs)]
 - [2024] Efficient Large Language Models: A Survey, TMLR [[Paper](https://arxiv.org/abs/2312.03863)] [[Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 - [2024] A Survey on Multimodal Large Language Models for Autonomous Driving, WACV [[Paper](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_A_Survey_on_Multimodal_Large_Language_Models_for_Autonomous_Driving_WACVW_2024_paper.html)] 
 - [2024] Personalization of Large Language Models: A Survey, arXiv [[Paper](https://arxiv.org/pdf/2411.00027)] 
