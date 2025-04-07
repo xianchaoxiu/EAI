@@ -17,7 +17,7 @@ I currently focus on large language models for robotics including
 <a name="Surveys" />
 
 ## Surveys
-- [2025]Generative Models in Decision Making: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.17100)]
+- [2025] Generative Models in Decision Making: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.17100)]
 - [2025] A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond, arXiv [[Paper](https://arxiv.org/abs/2503.21614)]
 - [2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives, arXiv [[Paper](https://arxiv.org/abs/2501.04003)] [[Code](https://drive-bench.github.io/)]
 - [2025] The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey, arXiv [[Paper](https://arxiv.org/abs/2502.10498)] [[Code](https://github.com/LMD0311/Awesome-World-Model)]
