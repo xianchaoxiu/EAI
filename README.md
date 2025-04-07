@@ -17,6 +17,8 @@ I currently focus on large language models for robotics including
 <a name="Surveys" />
 
 ## Surveys
+- [2025]Generative Models in Decision Making: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.17100)]
+- [2025] A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond, arXiv [[Paper](https://arxiv.org/abs/2503.21614)]
 - [2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives, arXiv [[Paper](https://arxiv.org/abs/2501.04003)] [[Code](https://drive-bench.github.io/)]
 - [2025] The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey, arXiv [[Paper](https://arxiv.org/abs/2502.10498)] [[Code](https://github.com/LMD0311/Awesome-World-Model)]
 - [2025] A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models, arXiv [[Paper](https://arxiv.org/abs/2502.17516)]
@@ -73,6 +75,8 @@ I currently focus on large language models for robotics including
 <a name="Planning" />
 
 ## Planning
+- [2025] NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10938647)] 
+- [2025] FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks, arXiv [[Paper](https://arxiv.org/abs/2503.13966)] 
 - [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/abs/2502.13451)] 
 - [2025] NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM, arXiv [[Paper](https://arxiv.org/abs/2502.11142)] 
 - [2025] LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs, arXiv [[Paper](https://arxiv.org/abs/2501.06186)]  [[Video](https://github.com/mbzuai-oryx/LlamaV-o1)]
@@ -106,6 +110,7 @@ I currently focus on large language models for robotics including
 <a name="Control" />
 
 ## Control
+- [2025] ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2502.14420)]  
 - [2024] π0: A Vision-Language-Action Flow Model for General Robot Control, arXiv [[Paper](https://arxiv.org/abs/2410.24164)]  [[Video](https://www.physicalintelligence.company/blog/pi0)] 
 - [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation, arXiv [[Paper](https://arxiv.org/abs/2412.04453)]  [[Video](https://navila-bot.github.io/)] 
 - [2024] Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation, arXiv [[Paper](https://arxiv.org/abs/2403.08282)]  
