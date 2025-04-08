@@ -165,7 +165,7 @@ I currently focus on large language models for navigation including
 - [2024] NutePrune: Efficient Progressive Pruning with Numerous Teachers for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.09773)] 
 - [2024] SliceGPT: Compress Large Language Models by Deleting Rows and Columns, ICLR[[Paper](https://arxiv.org/abs/2401.15024)] [[Code](https://github.com/microsoft/TransformerCompression?utm_source=catalyzex.com)]
 - [2023] LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery, arXiv [[Paper](https://arxiv.org/abs/2310.18356)]
-- [2023] LLM-Pruner: On the Structural Pruning of Large Language Models, NeurIPS [[Paper](https://arxiv.org/abs/2305.11627)] [[Code](https://github.com/horseee/LLM-Pruner)]
+- [2023] LLM-Pruner: On the Structural Pruning of Large Language Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/44956951349095f74492a5471128a7e0-Abstract-Conference.html)] [[Code](https://github.com/horseee/LLM-Pruner)]
 - [2023] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning, NeurIPS [[Paper](https://arxiv.org/abs/2310.06694)] [[Code](https://github.com/princeton-nlp/LLM-Shearing)]
 - [2023] LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning, arXiv [[Paper](https://doi.org/10.48550/arXiv.2305.18403)]
 - [2023] LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation, ICML [[Paper](https://proceedings.mlr.press/v202/li23ap.html)] [[Code](https://github.com/yxli2123/LoSparse)]
