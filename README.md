@@ -168,6 +168,12 @@ I currently focus on large language models for navigation including
 
 
 ##### Structured Pruning
+
+. Fluctuation-based adaptive structured pruning for large language models
+Search for efficient large language models.
+Finercut: Finer-grained interpretable layer pruning for large language models.
+Shortgpt: Layers in large language models are more redundant than you expect.
+
 - Compact Language Models via Pruning and Knowledge Distillation, <ins>arXiv, 2024</ins> [[Paper](https://www.arxiv.org/abs/2407.14679)] 
 - A deeper look at depth pruning of LLMs, <ins>arXiv, 2024</ins> [[Paper](https://www.arxiv.org/abs/2407.16286)] 
 - Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.20541)] 
@@ -188,8 +194,12 @@ I currently focus on large language models for navigation including
 - A Simple and Effective Pruning Approach for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.11695)] [[Code](https://github.com/locuslab/wanda)]
 - One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/pdf/2310.09499v1.pdf)]
 
-- 
+A convexoptimization-based layer-wise post-training pruner for large language models.
 
+Maskllm: Learnable semi-structured sparsity for large language
+models
+
+Pruner-zero: Evolving symbolic pruning metric from scratch for large language models
 
 <a name="Tools" />
 
