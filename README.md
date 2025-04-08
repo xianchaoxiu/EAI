@@ -167,60 +167,33 @@ I currently focus on large language models for robotics including
 
 
 
-### Quantization 
-- [2024] A Survey of Low-Bit Large Language Models: Basics, Systems, and Algorithms, arXiv [[Paper](https://arxiv.org/abs/2409.16694)]
-- [2024] OneBit: Towards Extremely Low-bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.11295)] 
-- [2024] I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2405.17849)] 
-- [2024] Evaluating Quantized Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2402.18158)]
-- [2024] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, arXiv [[Paper](https://arxiv.org/abs/2402.17764)]
-- [2023] Post-training Quantization for Neural Networks with Provable Guarantees, SIMODS [[Paper](https://epubs.siam.org/doi/abs/10.1137/22M1511709)]
-- [2023] Training and inference of large language models using 8-bit floating point, arXiv [[Paper](https://arxiv.org/abs/2309.17224)]
-- [2023] BitNet: Scaling 1-bit Transformers for Large Language Models, arXiv[[Paper](https://arxiv.org/abs/2310.11453)]
-- [2023] LLM-QAT: Data-Free Quantization Aware Training for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAThttps://github.com/facebookresearch/LLM-QAT)]
-- [2023] GPTQ: Accurate Quantization for Generative Pre-trained Transformers, ICLR [[Paper](https://openreview.net/forum?id=tcbBPnfwxS)] [[Code](https://github.com/IST-DASLab/gptq)]
-- [2023] QuIP: 2-Bit Quantization of Large Language Models With Guarantees, arXiv [[Paper](https://arxiv.org/abs/2307.13304)] [[Code](https://github.com/jerry-chee/QuIP)]
-- [2023] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration,  arXiv  [[Paper](https://arxiv.org/abs/2306.00978)] [[Code](https://github.com/mit-han-lab/llm-awq)]
-- [2023] OWQ: Lessons Learned from Activation Outliers for Weight Quantization in Large Language Models, arXiv </ins> [[Paper](https://arxiv.org/abs/2306.02272)] [[Code](https://github.com/xvyaward/owq)]
-- [2023] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression, arXiv [[Paper](https://arxiv.org/pdf/2306.03078)] [[Code](https://github.com/Vahe1994/SpQR)]
-- [2023] QuantEase: Optimization-based Quantization for Language Models, arXiv [[Paper](https://arxiv.org/abs/2309.01885)] [[Code](https://github.com/linkedin/QuantEase)]
-- [2023] ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation, arXiv [[Paper](https://arxiv.org/abs/2303.08302)] [[Code](https://github.com/microsoft/DeepSpeed)]
-- [2023] QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2310.08041)]
-- [2023] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models, ICML [[Paper](https://arxiv.org/abs/2211.10438)] [[Code](https://github.com/mit-han-lab/smoothquant)]
-- [2022] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)]
-- [2022] Compression of Generative Pre-trained Language Models via Quantization, ACL [[Paper](https://aclanthology.org/2022.acl-long.331.pdf)]
+##### Structured Pruning
+- Compact Language Models via Pruning and Knowledge Distillation, <ins>arXiv, 2024</ins> [[Paper](https://www.arxiv.org/abs/2407.14679)] 
+- A deeper look at depth pruning of LLMs, <ins>arXiv, 2024</ins> [[Paper](https://www.arxiv.org/abs/2407.16286)] 
+- Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.20541)] 
+- Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models, <ins>ICLR, 2024</ins> [[Paper](https://openreview.net/forum?id=Tr0lPx9woF)] 
+- BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.16880)] 
+- ShortGPT: Layers in Large Language Models are More Redundant Than You Expect, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.03853)] 
+- NutePrune: Efficient Progressive Pruning with Numerous Teachers for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.09773)] 
+- SliceGPT: Compress Large Language Models by Deleting Rows and Columns, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2401.15024)] [[Code](https://github.com/microsoft/TransformerCompression?utm_source=catalyzex.com)]
+- LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2310.18356)]
+- LLM-Pruner: On the Structural Pruning of Large Language Models, <ins>NeurIPS, 2023</ins> [[Paper](https://arxiv.org/abs/2305.11627)] [[Code](https://github.com/horseee/LLM-Pruner)]
+- Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning, <ins> NeurIPS-ENLSP, 2023</ins> [[Paper](https://arxiv.org/abs/2310.06694)] [[Code](https://github.com/princeton-nlp/LLM-Shearing)]
+- LoRAPrune: Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning, <ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2305.18403)]
+- LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models, <ins>ICML, 2024</ins> [[Paper](https://arxiv.org/abs/2404.09695)][[Code](https://github.com/lihuang258/LoRAP)]
+##### Unstructured Pruning
+- MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models, <ins>NIPS, 2024</ins> [[Paper](https://arxiv.org/abs/2409.17481)] 
+- Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.08915)] 
+- SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot, <ins>ICML, 2023</ins> [[Paper](https://arxiv.org/abs/2301.00774)] [[Code](https://github.com/IST-DASLab/sparsegpt)]
+- A Simple and Effective Pruning Approach for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.11695)] [[Code](https://github.com/locuslab/wanda)]
+- One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/pdf/2310.09499v1.pdf)]
 
-
-
-### Binarization
-
-- [2024] Scalable Binary Neural Network Applications in Oblivious Inference, ACM TECS [[Paper](https://dl.acm.org/doi/full/10.1145/3607192)]
-- [2022] Structured Binary Neural Networks for Image Recognition, IJCV [[Paper](https://link.springer.com/article/10.1007/s11263-022-01638-0)]
-- [2022] Data-Adaptive Binary Neural Networks for Efficient Object Detection and Recognition, PRL[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004438)]
-- [2021] Learning Frequency Domain Approximation for Binary Neural Networks, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2021/hash/d645920e395fedad7bbbed0eca3fe2e0-Abstract.html)]
-- [2021] Layer-Wise Searching for 1-Bit Detectors, CVPR [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.html)]
-- [2020] Rotated Binary Neural Network, NeurIPS [[Paper](https://proceedings.neurips.cc/paper/2020/hash/53c5b2affa12eed84dfec9bfd83550b1-Abstract.html)]
-- [2020] Binary Neural Networks: A Survey, PR  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320300856)]
-- [2018] Regularized Binary Network Training, arXiv [[Paper](https://arxiv.org/abs/1812.11800)]
-- [2018] Enhancing the Performance of 1-bit CNNs with Improved Representational Capability and Advanced Training Algorithm, ECCV [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.pdf)]
-- [2018] Circulant Binary Convolutional Networks: Enhancing the Performance of 1-bit DCNNs with Circulant Back Propagation, CVPR [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Circulant_Binary_Convolutional_Networks_Enhancing_the_Performance_of_1-Bit_DCNNs_CVPR_2019_paper.html)]
-- [2017] How to Train a Compact Binary Neural Network with High Accuracy? AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10862)]
-- [2015] BinaryConnect: Training Deep Neural Networks with Binary Weights During Propagations, NIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)]
-
-
-### Distillation
-- [2025] Continual Learning With Knowledge Distillation: A Survey, IEEE TNNLS [[Paper](https://ieeexplore.ieee.org/document/10721446)]
-
-
-
-
-
-
+- 
 
 
 <a name="Tools" />
 
 ## Tools
-- Hugging Face [[Link](https://huggingface.co/)]  
 - LLM-Action [[Link](https://github.com/liguodongiot/llm-action)]
 - LLM-Robotics [[Link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
 
