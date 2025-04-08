@@ -196,5 +196,5 @@ I currently focus on large language models for robotics including
 ## Tools
 - LLM-Action [[Link](https://github.com/liguodongiot/llm-action)]
 - LLM-Robotics [[Link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
-
+- Efficient-LLMs-Survey [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 
