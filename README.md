@@ -151,6 +151,7 @@ I currently focus on large language models for navigation including
 ### Pruning
 
 ##### Structured Pruning
+- [2025] Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization, arXiv [[Paper](https://arxiv.org/abs/2503.09657)] 
 - [2025] Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing, ICLR [[Paper](https://arxiv.org/abs/2502.15618)]
 - [2025] Lightweight and Post-Training Structured Pruning for On-Device Large Lanaguage Models, arXiv [[Paper](https://arxiv.org/abs/2501.15255)]
 - [2025] FASP: Fast and Accurate Structured Pruning of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.09412)]
