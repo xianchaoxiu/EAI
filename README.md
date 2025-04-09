@@ -151,11 +151,15 @@ I currently focus on large language models for navigation including
 ### Pruning
 
 ##### Structured Pruning
-
+- [2025] Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing, ICLR [[Paper](https://arxiv.org/abs/2502.15618)]
+- [2025] Lightweight and Post-Training Structured Pruning for On-Device Large Lanaguage Models, arXiv [[Paper](https://arxiv.org/abs/2501.15255)]
 - [2025] FASP: Fast and Accurate Structured Pruning of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.09412)]
 - [2024] FinerCut: Finer-grained Interpretable Layer Pruning for Large Language Models, NeurIPS [[Paper](https://openreview.net/forum?id=jrSWzgno4W)] 
 - [2024] Fluctuation-Based Adaptive Structured Pruning for Large Language Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28960)]
 - [2024] LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models, ICML [[Paper](https://arxiv.org/abs/2404.09695)][[Code](https://github.com/lihuang258/LoRAP)]
+- [2024] SlimGPT: Layer-wise Structured Pruning for Large Language Models, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c1c44e46358e0fb94dc94ec495a7fb1a-Abstract-Conference.html)] 
+- [2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning, NeurIPS [[Paper](https://openreview.net/forum?id=09iOdaeOzp)] 
+- [2024] Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes, arXiv [[Paper](https://arxiv.org/abs/2402.05406)] 
 - [2024] Compact Language Models via Pruning and Knowledge Distillation, arXiv [[Paper](https://www.arxiv.org/abs/2407.14679)] 
 - [2024] A Deeper Look at Depth Pruning of LLMs, ICML [[Paper](https://openreview.net/forum?id=9B7ayWclwN)] 
 - [2024] Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models, arXiv [[Paper](https://arxiv.org/abs/2405.20541)] 
