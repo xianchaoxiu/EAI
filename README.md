@@ -191,5 +191,6 @@ I currently focus on large language models for navigation including
 ## Tools
 - LLM-Action [[Link](https://github.com/liguodongiot/llm-action)]
 - LLM-Robotics [[Link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
+- LLM-Cookbook [[Link](https://github.com/datawhalechina/llm-cookbook/)]
 - Efficient-LLMs-Survey [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 
