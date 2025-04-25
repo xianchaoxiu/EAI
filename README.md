@@ -185,7 +185,7 @@ I currently focus on large language models for navigation including
 - [2024] A Convex-optimization-based Layer-wise Post-training Pruner for Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2408.03728)]
 - [2023] SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot, ICML [[Paper](https://arxiv.org/abs/2301.00774)] [[Code](https://github.com/IST-DASLab/sparsegpt)]
 - [2023] One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models, arXiv [[Paper](https://arxiv.org/pdf/2310.09499v1.pdf)]
-- 
+  
 
 <a name="Tools" />
 
