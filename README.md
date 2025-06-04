@@ -7,7 +7,7 @@ I currently focus on large language models for navigation including
 - [Perception](#Perception)
 - [Planning](#Planning)
 - [Control](#Control)
-- [Deployment](#Deployment)
+- [Lightweight](#Lightweight)
 - [Tools](#Tools)
 
 <strong> Last Update: 2025/04/08 </strong>
@@ -139,9 +139,9 @@ I currently focus on large language models for navigation including
 - [2022] Learning Efficient Multi-agent Cooperative Visual Exploration, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)]
 
 
-<a name="Deployment" />
+<a name="Lightweight" />
 
-## Deployment
+## Lightweight
 
 ### Mamba
 - [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2404.18861v3)]  [[Code](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] 
@@ -151,6 +151,7 @@ I currently focus on large language models for navigation including
 ### Pruning
 
 ##### Structured Pruning
+- [2025] SPAP: Structured Pruning via Alternating Optimization and Penalty Methods, arXiv [[Paper](https://arxiv.org/abs/2505.03373)] 
 - [2025] Týr-the-Pruner: Unlocking Accurate 50% Structural Pruning for LLMs via Global Sparsity Distribution Optimization, arXiv [[Paper](https://arxiv.org/abs/2503.09657)] 
 - [2025] Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing, ICLR [[Paper](https://arxiv.org/abs/2502.15618)]
 - [2025] Lightweight and Post-Training Structured Pruning for On-Device Large Lanaguage Models, arXiv [[Paper](https://arxiv.org/abs/2501.15255)]
