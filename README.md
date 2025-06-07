@@ -16,6 +16,7 @@ I currently focus on embodied navigation including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] AI 大模型驱动的具身智能人形机器人技术与展望, 中国科学 [[Paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0350)]
 - [2025] Generative Models in Decision Making: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.17100)]
 - [2025] A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond, arXiv [[Paper](https://arxiv.org/abs/2503.21614)]
 - [2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives, arXiv [[Paper](https://arxiv.org/abs/2501.04003)] [[Code](https://drive-bench.github.io/)]
@@ -74,6 +75,7 @@ I currently focus on embodied navigation including
 <a name="Planning" />
 
 ## Planning
+- [2025] COSMO:Combination of Selective Memorization for Low-cost Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/pdf/2503.24065)] 
 - [2025] NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10938647)] 
 - [2025] FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks, arXiv [[Paper](https://arxiv.org/abs/2503.13966)] 
 - [2025] MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/abs/2502.13451)] 
