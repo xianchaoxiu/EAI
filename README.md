@@ -55,6 +55,10 @@ I currently focus on embodied navigation including
 <a name="Perception" />
 
 ## Perception
+- [2025] PanoGen++: Domain-Adapted Text-Guided Panoramic Environment Generation for Vision-and-Language Navigation, NN [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025001996)]
+- [2025] NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants, arXiv [[Paper](https://arxiv.org/pdf/2502.13894)] [[Code](https://21styouth.github.io/NavigateDiff/)]
+- [2025] Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation, arXiv [[Paper](https://arxiv.org/abs/2502.14254)]
+- [2025] OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model, arXiv [[Paper](https://arxiv.org/abs/2503.23463)]
 - [2025] Visual-RFT: Visual Reinforcement Fine-Tuning, arXiv [[Paper](https://arxiv.org/abs/2503.01785)] [[Code](https://github.com/Liuziyu77/Visual-RFT)]
 - [2025] ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration, arXiv [[Paper](https://arxiv.org/abs/2502.19250)] [[Code](https://objectvla.github.io/)]
 - [2025] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token, arXiv [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)]
@@ -75,6 +79,7 @@ I currently focus on embodied navigation including
 <a name="Planning" />
 
 ## Planning
+- [2025] Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments, ICRA [[Paper](https://arxiv.org/abs/2502.19024)] 
 - [2025] COSMO:Combination of Selective Memorization for Low-cost Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/pdf/2503.24065)] 
 - [2025] NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10938647)] 
 - [2025] FlexVLN: Flexible Adaptation for Diverse Vision-and-Language Navigation Tasks, arXiv [[Paper](https://arxiv.org/abs/2503.13966)] 
@@ -91,6 +96,7 @@ I currently focus on embodied navigation including
 - [2024] Mastering Board Games by External and Internal Planning with Language Models, arXiv [[Paper](https://arxiv.org/abs/2412.12119)] 
 - [2024] TopV-Nav: Unlocking the TopView Spatial Reasoning Potential of MLLM for Zero-shot Obiect Navigation, arXiv [[Paper](https://arxiv.org/abs/2411.16425)] 
 - [2024] The One RING: a Robotic Indoor Navigation Generalist, arXiv [[Paper](https://arxiv.org/pdf/2412.14401)]  [[Video](https://one-ring-policy.allen.ai/)]
+- [2024] World-Consistent Data Generation for Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/abs/2412.06413)]
 - [2024] Asynchronous Large Language Model Enhanced Planner for Autonomous Driving, ECCV [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72764-1_2)]
 - [2024] Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving, arXiv [[Paper](https://arxiv.org/pdf/2412.18511)]
 - [2024] LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning, arXiv [[Paper](https://arxiv.org/abs/2407.02511)]  
@@ -111,9 +117,11 @@ I currently focus on embodied navigation including
 <a name="Control" />
 
 ## Control
+- [2025] TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference, arXiv [[Paper](https://arxiv.org/pdf/2504.03154)]  
 - [2025] ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2502.14420)]  
 - [2024] π0: A Vision-Language-Action Flow Model for General Robot Control, arXiv [[Paper](https://arxiv.org/abs/2410.24164)]  [[Video](https://www.physicalintelligence.company/blog/pi0)] 
-- [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation, arXiv [[Paper](https://arxiv.org/abs/2412.04453)]  [[Video](https://navila-bot.github.io/)] 
+- [2024] NaVILA: Legged Robot Vision-Language-Action Model for Navigation, arXiv [[Paper](https://arxiv.org/abs/2412.04453)]  [[Video](https://navila-bot.github.io/)]
+- [2024] An LLM-based vision and language cobot navigation approach for Human-centric Smart Manufacturing, JMS [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0278612524000864)] 
 - [2024] Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation, arXiv [[Paper](https://arxiv.org/abs/2403.08282)]  
 - [2024] GOMA: Proactive Embodied Cooperative Communication via Goal-Oriented Mental Alignment, arXiv [[Paper](https://arxiv.org/abs/2403.11075)]  
 - [2024] Probabilistically Correct Language-based Multi-Robot Planning using Conformal Prediction, arXiv [[Paper](https://arxiv.org/abs/2402.15368)]  
