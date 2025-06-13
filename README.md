@@ -17,6 +17,7 @@ I currently focus on embodied navigation including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, arXiv [[Paper](http://export.arxiv.org/abs/2505.04769)]
 - [2025] Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models, arXiv [[Paper](https://arxiv.org/abs/2505.04921)] [[Code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)]
 - [2025] AI 大模型驱动的具身智能人形机器人技术与展望, 中国科学 [[Paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0350)]
 - [2025] Generative Models in Decision Making: A Survey, arXiv [[Paper](https://arxiv.org/abs/2502.17100)]
