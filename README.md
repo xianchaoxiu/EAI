@@ -15,6 +15,7 @@ I currently focus on embodied navigation including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI, arXiv [[Paper](https://arxiv.org/abs/2505.01458)] 
 - [2025] A Comprehensive Survey on Continual Learning in Generative Models, arXiv [[Paper](https://www.arxiv.org/abs/2506.13045)] [[Code](https://github.com/Ghy0501/Awesome-Continual-Learning-in-Generative-Models)]
 - [2025] Toward Embodied AGI: A Review of Embodied AI and the Road Ahead, arXiv [[Paper](https://arxiv.org/pdf/2505.14235)]
 - [2025] Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, arXiv [[Paper](http://export.arxiv.org/abs/2505.04769)]
