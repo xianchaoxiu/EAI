@@ -15,6 +15,7 @@ I currently focus on embodied navigation including
 <a name="Surveys" />
 
 ## Surveys
+- [2025] A Comprehensive Survey on Continual Learning in Generative Models, arXiv [[Paper](https://www.arxiv.org/abs/2506.13045)] [[Code](https://github.com/Ghy0501/Awesome-Continual-Learning-in-Generative-Models)]
 - [2025] Toward Embodied AGI: A Review of Embodied AI and the Road Ahead, arXiv [[Paper](https://arxiv.org/pdf/2505.14235)]
 - [2025] Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, arXiv [[Paper](http://export.arxiv.org/abs/2505.04769)]
 - [2025] Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models, arXiv [[Paper](https://arxiv.org/abs/2505.04921)] [[Code](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)]
@@ -81,6 +82,7 @@ I currently focus on embodied navigation including
 <a name="Planning" />
 
 ## Planning
+- [2025] DriveSuprim: Towards Precise Trajectory Selection for End-to-End Planning, arXiv [[Paper](https://arxiv.org/abs/2506.06659)] 
 - [2025] Ground-level Viewpoint Vision-and-Language Navigation in Continuous Environments, ICRA [[Paper](https://arxiv.org/abs/2502.19024)] 
 - [2025] COSMO:Combination of Selective Memorization for Low-cost Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/pdf/2503.24065)] 
 - [2025] NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning, IEEE TPAMI [[Paper](https://ieeexplore.ieee.org/abstract/document/10938647)] 
