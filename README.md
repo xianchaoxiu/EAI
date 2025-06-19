@@ -52,7 +52,7 @@ I currently focus on embodied navigation including
 - [2024] ChatGPT for Robotics: Design Principles and Model Abilities, IEEE Access [[Paper](https://ieeexplore.ieee.org/abstract/document/10500490)] 
 - [2023] Large Language Models for Robotics: A Survey, arXiv [[Paper](https://arxiv.org/abs/2311.07226)]
 - [2023] LLM4Drive: A Survey of Large Language Models for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2311.01043)] [[Code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)]
-
+- 
 
 
 
@@ -162,3 +162,10 @@ I currently focus on embodied navigation including
 - LLM-Cookbook [[Link](https://github.com/datawhalechina/llm-cookbook/)]
 - Efficient-LLMs-Survey [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 
+
+
+
+<a name="Unclassified" />
+## Unclassified
+- [2025] GENERAL SCENE ADAPTATION FOR VISION-AND-LANGUAGE NAVIGATION, [[Paper](https://arxiv.org/abs/2501.17403)] [[Code](https://github.com/honghd16/GSA-VLN)]
+- [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
