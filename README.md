@@ -165,7 +165,5 @@ I currently focus on embodied navigation including
 
 
 
-<a name="Unclassified" />
-## Unclassified
-- [2025] GENERAL SCENE ADAPTATION FOR VISION-AND-LANGUAGE NAVIGATION, [[Paper](https://arxiv.org/abs/2501.17403)] [[Code](https://github.com/honghd16/GSA-VLN)]
-- [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
+- [2025] GENERAL SCENE ADAPTATION FOR VISION-AND-LANGUAGE NAVIGATION, arXiv[[Paper](https://arxiv.org/abs/2501.17403)] [[Code](https://github.com/honghd16/GSA-VLN)]
+- [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv[[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
