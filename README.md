@@ -1,4 +1,4 @@
-# Embodied Artificial Intelligence
+# Embodied Navigation
 
 I currently focus on embodied navigation including
 - [Surveys](#Surveys)
