@@ -5,7 +5,6 @@ I currently focus on embodied navigation including
 - [Perception](#Perception)
 - [Planning](#Planning)
 - [Control](#Control)
-- [Tools](#Tools)
 
 <strong> Last Update: 2025/06/07 </strong>
 
@@ -154,19 +153,10 @@ I currently focus on embodied navigation including
 
 
 
-<a name="Tools" />
-
-## Tools
-- LLM-Action [[Link](https://github.com/liguodongiot/llm-action)]
-- LLM-Robotics [[Link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]
-- LLM-Cookbook [[Link](https://github.com/datawhalechina/llm-cookbook/)]
-- Efficient-LLMs-Survey [[Link](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
 
 
-
-
-- [2025] GENERAL SCENE ADAPTATION FOR VISION-AND-LANGUAGE NAVIGATION, arXiv[[Paper](https://arxiv.org/abs/2501.17403)] [[Code](https://github.com/honghd16/GSA-VLN)]
-- [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv[[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
+- [2025] GENERAL SCENE ADAPTATION FOR VISION-AND-LANGUAGE NAVIGATION, arXiv [[Paper](https://arxiv.org/abs/2501.17403)] [[Code](https://github.com/honghd16/GSA-VLN)]
+- [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
 
 
 ## Star History
