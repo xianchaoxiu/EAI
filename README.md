@@ -5,7 +5,7 @@ I currently focus on embodied navigation including
 - [Perception](#Perception)
 - [Planning](#Planning)
 - [Control](#Control)
-
+- [Vision-and-Language Navigation（VLN）](#VLN)
 <strong> Last Update: 2025/06/07 </strong>
 
 
@@ -156,8 +156,41 @@ I currently focus on embodied navigation including
 
 
 
+
+<a name="VLN" />
+
+## VLN
 - [2025] GENERAL SCENE ADAPTATION FOR VISION-AND-LANGUAGE NAVIGATION, arXiv [[Paper](https://arxiv.org/abs/2501.17403)] [[Code](https://github.com/honghd16/GSA-VLN)]
+- [2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation, arXiv [[Paper](https://arxiv.org/abs/2503.10630)] [[Code](https://github.com/bagh2178/UniGoal)]
+
+
+
+
+
+
+
+
+
+
 - [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Star History
