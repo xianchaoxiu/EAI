@@ -1,6 +1,6 @@
 # Embodied Navigation
 
-I currently focus on embodied navigation including
+I currently focus on vision-and-language navigation including
 - [Surveys](#Surveys)
 - [Perception](#Perception)
 - [Planning](#Planning)
