@@ -171,7 +171,7 @@ I currently focus on vision-and-language navigation including
 
 
 
-
+- [2023] Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/34e278fbbd7d6d7d788c98065988e1a9-Paper-Conference.pdf)] [[Code](https://github.com/whcpumpkin/Demand-driven-navigation/tree/main)] [[Project](https://sites.google.com/view/demand-driven-navigation)]
 
 
 
@@ -190,7 +190,7 @@ I currently focus on vision-and-language navigation including
 
 
 
-
+- [2010] Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding, arXiv [[Paper](https://arxiv.org/pdf/2010.07954)] [[Code](https://github.com/google-research-datasets/RxR)]
 
 
 
