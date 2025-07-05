@@ -169,9 +169,11 @@ I currently focus on vision-and-language navigation including
 
 - [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://github.com/LYX0501/InstructNav)] [[Project](https://sites.google.com/view/instructnav)]
 
-
+- [2023] ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation, arXiv [[Paper](https://arxiv.org/pdf/2301.13166)] [[Project](https://sites.google.com/ucsc.edu/escnav/home)]
 
 - [2023] Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/34e278fbbd7d6d7d788c98065988e1a9-Paper-Conference.pdf)] [[Code](https://github.com/whcpumpkin/Demand-driven-navigation/tree/main)] [[Project](https://sites.google.com/view/demand-driven-navigation)]
+
+
 
 - [2022] CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration, arXiv [[Paper](https://export.arxiv.org/abs/2203.10421v1)] 
 
