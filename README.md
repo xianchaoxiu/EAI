@@ -167,11 +167,6 @@ I currently focus on vision-and-language navigation including
 
 
 
-
-
-
-
-
 - [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
 
 
@@ -181,8 +176,16 @@ I currently focus on vision-and-language navigation including
 
 
 
+- [2020] REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.html)] [[Code](https://github.com/YuankaiQi/REVERIE)]
 
 
+
+
+
+
+
+
+- [2018] Vision-and-Language Navigation: Interpreting visually-groundednavigation instructions in real environments, CVPR [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.html)] [[Code](https://github.com/peteanderson80/Matterport3DSimulator)] [[Project](https://bringmeaspoon.org/)]
 
 
 
