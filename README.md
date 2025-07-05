@@ -173,7 +173,7 @@ I currently focus on vision-and-language navigation including
 
 - [2023] Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/34e278fbbd7d6d7d788c98065988e1a9-Paper-Conference.pdf)] [[Code](https://github.com/whcpumpkin/Demand-driven-navigation/tree/main)] [[Project](https://sites.google.com/view/demand-driven-navigation)]
 
-
+- [2022] CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration, arXiv [[Paper](https://export.arxiv.org/abs/2203.10421v1)] 
 
 
 - [2020] REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments, CVPR [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.html)] [[Code](https://github.com/YuankaiQi/REVERIE)]
@@ -189,7 +189,7 @@ I currently focus on vision-and-language navigation including
 
 
 
-- [2011] A Recurrent Vision-and-Language BERT for Navigation, arXiv [[Paper](https://arxiv.org/abs/2011.13922)] [[Code](https://github.com/YicongHong/Recurrent-VLN-BERT)] [[Project](https://bringmeaspoon.org/)]
+- [2011] A Recurrent Vision-and-Language BERT for Navigation, arXiv [[Paper](https://arxiv.org/abs/2011.13922)] [[Code](https://github.com/YicongHong/Recurrent-VLN-BERT)] 
 
 - [2010] Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding, arXiv [[Paper](https://arxiv.org/pdf/2010.07954)] [[Code](https://github.com/google-research-datasets/RxR)]
 
