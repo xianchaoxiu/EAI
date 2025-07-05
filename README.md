@@ -167,7 +167,7 @@ I currently focus on vision-and-language navigation including
 
 
 
-- [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://sites.google.com/view/instructnav)]
+- [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://github.com/LYX0501/InstructNav)] [[Project](https://sites.google.com/view/instructnav)]
 
 
 
@@ -189,6 +189,7 @@ I currently focus on vision-and-language navigation including
 
 
 
+- [2011] A Recurrent Vision-and-Language BERT for Navigation, arXiv [[Paper](https://arxiv.org/abs/2011.13922)] [[Code](https://github.com/YicongHong/Recurrent-VLN-BERT)] [[Project](https://bringmeaspoon.org/)]
 
 - [2010] Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding, arXiv [[Paper](https://arxiv.org/pdf/2010.07954)] [[Code](https://github.com/google-research-datasets/RxR)]
 
