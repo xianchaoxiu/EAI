@@ -173,7 +173,7 @@ I currently focus on vision-and-language navigation including
 
 - [2023] Find What You Want: Learning Demand-conditioned Object Attribute Space for Demand-driven Navigation, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/34e278fbbd7d6d7d788c98065988e1a9-Paper-Conference.pdf)] [[Code](https://github.com/whcpumpkin/Demand-driven-navigation/tree/main)] [[Project](https://sites.google.com/view/demand-driven-navigation)]
 
-
+- [2023] VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation , arXiv [[Paper](https://arxiv.org/abs/2312.03275)] [[Code](https://github.com/bdaiinstitute/vlfm)] [[Project](https://naoki.io/portfolio/vlfm)]
 
 - [2022] CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration, arXiv [[Paper](https://export.arxiv.org/abs/2203.10421v1)] 
 
