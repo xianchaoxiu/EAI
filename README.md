@@ -165,7 +165,7 @@ I currently focus on vision-and-language navigation including
 
 
 
-
+- [2024] Recent Advances in Robot Navigation via Large Language Models: A Review, researchgate [[Paper](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review)] 
 
 - [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://github.com/LYX0501/InstructNav)] [[Project](https://sites.google.com/view/instructnav)]
 
