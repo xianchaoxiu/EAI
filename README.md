@@ -164,9 +164,9 @@ I currently focus on vision-and-language navigation including
 - [2025] UniGoal: Towards Universal Zero-shot Goal-oriented Navigation, arXiv [[Paper](https://arxiv.org/abs/2503.10630)] [[Code](https://github.com/bagh2178/UniGoal)]
 - [2025] TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation, arXiv [[Paper](https://arxiv.org/pdf/2502.07306)]
 - [2025] NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants, arXiv [[Paper](https://arxiv.org/pdf/2502.13894)] [[Code](https://21styouth.github.io/NavigateDiff/)]
-  
-- [2024] Zero-Shot Object Navigation with Vision-Language Models Reasoning, ICPR [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-78456-9_25)] [[Code](https://vlt-lzson.github.io/)] 
 
+- [2024] Zero-Shot Object Navigation with Vision-Language Models Reasoning, ICPR [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-78456-9_25)] [[Code](https://vlt-lzson.github.io/)] 
+- [2024] Perceive, Reflect, and Plan: Designing LLM Agent for Goal-Directed City Navigation without Instructions, arXiv [[Paper](https://arxiv.org/pdf/2408.04168)] [[Code](https://anonymous.4open.science/r/PReP-13B5)] 
 - [2024] Recent Advances in Robot Navigation via Large Language Models: A Review, researchgate [[Paper](https://www.researchgate.net/publication/384537380_Recent_Advances_in_Robot_Navigation_via_Large_Language_Models_A_Review)] 
 
 - [2024] InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment, arXiv [[Paper](https://arxiv.org/abs/2406.04882)] [[Code](https://github.com/LYX0501/InstructNav)] [[Project](https://sites.google.com/view/instructnav)]
